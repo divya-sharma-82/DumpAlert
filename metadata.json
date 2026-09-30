@@ -1,0 +1,6 @@
+{
+  "name": "EcoSort & Pickup Tracker",
+  "description": "Client-side smart waste classification engine and pickup scheduling dashboard with real-time lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
